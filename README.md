@@ -1,0 +1,1 @@
+# amneziawg-relay-router
